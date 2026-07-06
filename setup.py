@@ -14,6 +14,7 @@ def get_requirements(file_path: str) -> list[str]:
 
 
 
+
 setup(
     name="ml project",
     version="0.0.1",
@@ -21,3 +22,5 @@ setup(
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt")
 )
+
+
