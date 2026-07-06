@@ -14,21 +14,6 @@ def get_requirements(file_path: str) -> list[str]:
 
 
 
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
 setup(
     name="ml project",
     version="0.0.1",
